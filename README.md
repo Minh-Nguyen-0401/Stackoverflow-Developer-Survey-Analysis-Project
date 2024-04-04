@@ -40,6 +40,6 @@ This database - The Public 2023 Stack Overflow Developer Survey Results - is pro
 - What are the most popular methods of learning to code?
 - Does having a master's degree increase the likelihood of landing a developer job?
 
-## Recommended Tools:
+## Used Tools/Languages:
 
-Python
+Python, SQL, SQLite
