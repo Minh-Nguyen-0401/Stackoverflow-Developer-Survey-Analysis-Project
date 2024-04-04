@@ -22,11 +22,11 @@ Access previous survey results: [Stack Overflow Insights](https://insights.stack
 This database - The Public 2023 Stack Overflow Developer Survey Results - is provided under the Open Database License (ODbL): [ODbL License](http://opendatacommons.org/licenses/odbl/1.0/). Individual contents of the database are licensed under the Database Contents License: [DBCL License](http://opendatacommons.org/licenses/dbcl/1.0/).
 
 ## Project Structure:
-- 'stack_overflow analysis.ipynb': The main Jupyter Notebook containing in-details data transformation and analysis operations
-- 'stackoverflow_sql.db (compressed).rar': SQLite Database File generated during the programming session for further analytic SQL queries
-- 'README.md': The introductory file containing quintessential information about the dataset and orientation of the project
-- 'stack-overflow-developer-survey-2023.zip': Full datasets collected from <a href="https://insights.stackoverflow.com/survey">the official stackoverflow annual survey result website</a>
-- 'so_survey_2023.pdf': A complete official survey content  relevant to the dataset provided
+- **`stack_overflow analysis.ipynb`**: The main Jupyter Notebook containing in-details data transformation and analysis operations
+- **`stackoverflow_sql.db (compressed).rar`**: SQLite Database File generated during the programming session for further analytic SQL queries
+- **`README.md`**: The introductory file containing quintessential information about the dataset and orientation of the project
+- **`stack-overflow-developer-survey-2023.zip`**: Full datasets collected from <a href="https://insights.stackoverflow.com/survey">the official stackoverflow annual survey result website</a>
+- **`so_survey_2023.pdf`**: A complete official survey content  relevant to the dataset provided
 
 
 ## Questions to Explore and Analyze the Dataset:
